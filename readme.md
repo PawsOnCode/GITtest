@@ -8,4 +8,4 @@ To jest tekst **pogrubiony**
 - lista numer 2
 - lista numer 3
 
-[PawsOnCode](www.pawsoncode.pl)
+[PawsOnCode](https://www.pawsoncode.pl)
